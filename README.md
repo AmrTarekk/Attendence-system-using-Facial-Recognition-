@@ -2,6 +2,7 @@
 This code helps in facial recognition using facenets (https://arxiv.org/pdf/1503.03832.pdf). The concept of facenets was originally presented in a research paper. The main concepts talked about triplet loss function to compare images of different person to recognize out target.
 
 Description :
+
 This Project consists of 3 Tasks : 
 First we have to collect our users data such as Name , ID and Photos Including one face.
 Second task will be extracting every photo's 128 element Vectors using our FaceNet Pretrained model 
