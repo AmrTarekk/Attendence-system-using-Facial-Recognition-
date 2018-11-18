@@ -14,4 +14,4 @@ Later we can verify our user attendence by extracting his face details and class
 
 Florian Schroff, Dmitry Kalenichenko, James Philbin (2015). FaceNet: A Unified Embedding for Face Recognition and Clustering
 
-Our implementation also took a lot of inspiration from the official FaceNet github repository: https://github.com/krasserm/face-recognition
+My implementation also took a lot of inspiration from the official FaceNet github repository: https://github.com/krasserm/face-recognition
