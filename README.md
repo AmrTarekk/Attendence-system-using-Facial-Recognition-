@@ -4,9 +4,12 @@ This code helps in facial recognition using facenets (https://arxiv.org/pdf/1503
 Description :
 
 This Project consists of 3 Tasks : 
-First we have to collect our users data such as Name , ID and Photos Including one face.
-Second task will be extracting every photo's 128 element Vectors using our FaceNet Pretrained model 
-Later we can verify our user attendence by extracting his face details and classify it using KNN
+
+First we have to collect our users data such as Name , ID and Photos Including one face. 
+
+Second task will be extracting every photo's 128 element Vectors using our FaceNet Pretrained model. 
+
+Later we can verify our user attendence by extracting his face details and classify it using KNN.
 
 
 References:
